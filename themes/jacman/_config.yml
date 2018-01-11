@@ -16,7 +16,7 @@ widgets:
 # - github-card
 - category
 - tag
-- weixin
+# - weixin
 # - links
 # - douban
 - rss

@@ -9,7 +9,7 @@ subtitle:  关注技术，分享生活 # 网站子标题
 description: 用这个博客，能够记录自己的学习过程和成长路径，与大家分享交流    # 网站描述
 author: 黄胜军   # 网站作者，也就是您的名字
 language: zh-CN      # 网站使用的语言
-timezone: Asiz/Shenzhen      # 网站时区。Hexo 预设使用您电脑的时区。
+timezone: Asia/Shenzhen      # 网站时区。Hexo 预设使用您电脑的时区。
 
 ##2> 网址配置
 #这个地方一般根据情况修改 url 和 root 即可。
